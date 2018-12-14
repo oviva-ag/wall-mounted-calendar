@@ -195,7 +195,7 @@ var ScheduleView = FC.AgendaView.extend({
 
 FC.views.schedule = {
   'class': ScheduleView,
-  'duration': {'days': 6},
+  'duration': {'days': 1},
   // Cribbed from the agenda defaults.
   defaults: {
     allDaySlot: true,
