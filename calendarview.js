@@ -2,7 +2,7 @@
 // Any copyright is dedicated to the Public Domain.
 // http://creativecommons.org/publicdomain/zero/1.0/
 
-var CLIENT_ID = '828124712330-lak7vgv6kak9cij45o1sjcppk9us0ahv.apps.googleusercontent.com';
+var CLIENT_ID = '419066369263-vf99uq4kfm9bva26rofo2000j43e5t0h.apps.googleusercontent.com';
 var last_app_sha = null;
 
 var debug = window.location.search.indexOf('debug') != -1;
